@@ -1,0 +1,9 @@
+homebrew (mac osx only)
+git
+node
+python
+
+dot files from git
+
+chrome
+atom
