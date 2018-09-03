@@ -2,8 +2,13 @@ homebrew (mac osx only)
 git
 node
 python
+virtualenv
+
+mongodb
+mysql
 
 dot files from git
 
 chrome
 atom
+compass for mongodb
