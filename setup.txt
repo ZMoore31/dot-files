@@ -3,6 +3,7 @@ git
 node
 python
 virtualenv
+nodemon
 
 mongodb
 mysql
