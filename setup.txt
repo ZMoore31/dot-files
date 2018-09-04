@@ -5,6 +5,8 @@ python
 virtualenv
 nodemon
 
+heroku cli
+
 mongodb
 mysql
 
