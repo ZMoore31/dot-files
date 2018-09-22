@@ -15,3 +15,4 @@ dot files from git
 chrome
 atom
 compass for mongodb
+sequel pro for mysql
